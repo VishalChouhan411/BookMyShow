@@ -1,5 +1,7 @@
-# Almabetter-full-stack-project
+# Hi, I'm Vishal Chouhan
+I am a Full stack learner at Almabetter and this is my Second project on Play Quiz
 
+# Bookmyshow
 there are 2 folders in the repo one is of frontend and the other is of backend handling the server
 
 after cloning both the repo node modules are to be installed seperately for both the frontend and backend
@@ -10,20 +12,72 @@ into the database establishes a connection with it and gives us the response acc
 
 just type npm install in the respective folders to install the node packages necessary for the app to run and youre good to go!
 
-This project contains both frontend and the backend in real the backend is hosted on heroku cloud and the frontEnd is hosted on the aws cloud amazon.
-the frontedn with the api end points communicates with the server which then goes into the database and looks out the data and is further sended as 
-a response to the front end which is then updated in the ui part. This complex project has taught many aspects of the handling of the complete frontend and backend 
-and has given a brief introduction to how the complete web works.Also how the erros work and we get and also to handle them. The complete mvc pattern has been used
-to achieve the working of the project.
+## Installation 
 
-Bonus :- a delete button is added to clear the database which is a delete request on the same api url which 
-will delete all the the data and clear out the database further emptying it.
+If you want work on the project clone this repository
 
-the complete app link :- https://master.d1dsv2i80le2xs.amplifyapp.com/
-the api end point :- https://almabetter-full-stack.herokuapp.com/api/booking
-technologies used :- Html,css,react,nodejs,express js,mongoDb,mongoose,javascript
+```bash
+https://github.com/VishalChouhan411/Book-my-show
+```
+Open this project in your local IDE and in the terminal do this command one by one
+- For Frontend
+```
+cd Frontend
+npm install
+npm start
+```
 
-the api endpoint is the same for post , get and delete method unless the method has to be specified in the request we are sending. Also
-i have provided the project video also the youtube link is :- https://youtu.be/Lw6iQ9zZpAk
+- For Backend
+```
+cd backend
+npm install
+nodemon server.js
+```
+
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000] to view it in your browser.
+
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
+
+### `npm test`
+
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+
+### `npm run build`
+
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
+
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
+
+## Deployment
+ Here is the link of the deployed project
+ ```
+ book-myshow.netlify.app
+ ```
+By clicking the above link, you can see the project
+
+## How to use
+
+1. click on the below link
+
+   ```
+   https://youtu.be/-F3aRA222ww?feature=shared
+   ```
+2. select Movie
+3. select time slot.
+4. select seats.
+5. click on BookNow button. 
+
+
+## Tech Used
+
+**Bookmyshow:** React js,Node js and mongodb for database
+
 
 
