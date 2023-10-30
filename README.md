@@ -58,8 +58,11 @@ Your app is ready to be deployed!
 ## Deployment
  Here is the link of the deployed project
  ```
+#FRONTEND
   bookmyshowfrontend.netlify.app
- ```
+#BACKEND
+  https://bookmyshow-backend-q5zo.onrender.com/api/booking
+```
 By clicking the above link, you can see the project
 
 ## How to use
