@@ -59,7 +59,7 @@ Your app is ready to be deployed!
  Here is the link of the deployed project
 
 # FRONTEND
-  bookmyshowfrontend.netlify.app
+ https://bookmyshowfrontend.netlify.app
 
 # BACKEND
  
