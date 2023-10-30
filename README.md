@@ -17,7 +17,7 @@ just type npm install in the respective folders to install the node packages nec
 If you want work on the project clone this repository
 
 ```bash
-https://github.com/VishalChouhan411/Book-my-show
+https://github.com/VishalChouhan411/Bookmyshow
 ```
 Open this project in your local IDE and in the terminal do this command one by one
 - For Frontend
@@ -58,7 +58,7 @@ Your app is ready to be deployed!
 ## Deployment
  Here is the link of the deployed project
  ```
- book-myshow.netlify.app
+  bookmyshowfrontend.netlify.app
  ```
 By clicking the above link, you can see the project
 
@@ -67,7 +67,7 @@ By clicking the above link, you can see the project
 1. click on the below link
 
    ```
-   https://youtu.be/-F3aRA222ww?feature=shared
+   https://youtu.be/h9YGSKuE5mM?feature=shared
    ```
 2. select Movie
 3. select time slot.
